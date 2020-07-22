@@ -53,6 +53,7 @@ quality. There are plenty of Audiophile scams out there in this product space.
 Extra gear options: 
 [Behringer U-Control UCA202](https://www.amazon.com/Behringer-U-Control-UCA202-Ultra-Low-Interface/dp/B000KW2YEI/) Discontinued, but if you can
 find it for cheap this is a good option. 
+
 [StarTech.com 7.1 USB Sound Card ](https://www.amazon.com/StarTech-com-7-1-USB-Sound-Card/dp/B002LM0U2S/)
 and cables to match. 
 
