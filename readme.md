@@ -89,6 +89,7 @@ you used above, your mixer could be ether the default line in audio device on yo
 
 ### What is my freaking stream key?
 FB: https://www.facebook.com/live/create Then click create live stream the stream key should be on the next page.
+
 Twitch: Log in to Twitch -> Click on your username in the upper right -> settings -> channel -> Primary stream key
 
 ### Why did those jerks mute me?!
