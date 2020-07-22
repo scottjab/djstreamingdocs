@@ -43,7 +43,7 @@ PC Laptops generally will have a headphone jack and a microphone jack. If you ha
 you connect your mixer into the mic port.  Some sound cards can disable the amp on a mic port, but you will have to
 consult the documentation for your PC.
 
-### <a name="dac"></a> 
+### <a name="dac"></a> USB soundcard or DAC
 If your mixer does not have a USB port, and connecting the mixer directly to your PC isn't working, you can try using a
 USB sound card or DAC (Digital audio converter)
 
@@ -59,7 +59,7 @@ and cables to match.
 Depending on the DAC you choose, your cable requirements, but just like above, attach record out from mixer into DAC.
 Then connect the USB from the DAC to your computer.
 
-### <a name="mixer"></a>
+### <a name="mixer"></a> Mixer with USB port
 
 Most modern mixers have DACs built in, if your mixer supports sarato it probably has this feature.  If your mixer has a 
 USB port anywhere on it, check the manual to see if you can export the main audio.  All of the current generation pionner
