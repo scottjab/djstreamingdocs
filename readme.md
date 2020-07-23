@@ -1,7 +1,7 @@
 # Streaming music on the internet
 
 So you want to stream some sweet music on the internet, but don't want your set to sound like it was recorded on a 
-potato underwater. It is possible to stream on the internet without shelling out for a new mixer, or some magic
+potato underwater? It is possible to stream on the internet without shelling out for a new mixer, or some magic
 streaming box. 
 
 This document covers streaming to Facebook and Twitch. (Pull requests welcome for other services.)
@@ -16,8 +16,8 @@ If you DJ with a controller, just connect it to your damn computer.
 Getting the sound form your mixer to your computer can happen a few different ways: 
 
 1. [The line/mic in on your computer](#linein)
-2. Using a usb sound card or DAC
-3. Just using your mixer's USB port
+2. [Using a usb sound card or DAC](#dac)
+3. [Just using your mixer's USB port](#mixer)
 
 
 Most mixers will have an analog line level record output. Usually these are RCA jacks. 
