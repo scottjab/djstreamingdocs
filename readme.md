@@ -74,7 +74,7 @@ mixers, most of the allen and heath, and most rane mixer support this feature.  
 OBS will combine the audio from your mixer and the video from your webcam and encode and stream the data to whichever 
 service you want.
 
-Their documentation is very good on this subject: https://obsproject.com/wiki/OBS-Studio-Quickstart
+Their documentation is very good on this subject: [OBS Studio Quickstart](https://obsproject.com/wiki/OBS-Studio-Quickstart)
 
 Basically
 1. Download and install OBS
